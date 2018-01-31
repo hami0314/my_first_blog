@@ -1,0 +1,75 @@
+container {
+    color: rgb(151, 253, 222)
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    text-align: center;
+    width: 100%;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+  font-family: Palatino, 'Palatino Linotype', serif;
+  color:rgb(163, 255, 151);
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color:rgb(255, 214, 187);
+}
+
+.class{
+
+    
+        font-size: 32px;
+        font-weight: bold;
+        font-family: 'Lobster', cursive;
+        color:rgb(240, 215, 240);
+    
+    
+}
+
+.date {
+    
+        color: #a5f5a3;
+    
+    
+}
+
+
+.post{
+    
+        margin: 30px;
+        background-color: #ffffff;
+        border: 1px solid black;
+        opacity: 0.6;
+         /* For IE8 and earlier */
+    
+}
+
+p,.post {
+    color:rgb(22, 14, 22);
+    font-style: italic;
+
+}
+.mytext{
+    opacity: 0.9;
+}
+
+.main {
+    background-image:url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
+    background-size: cover;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+    
+}
+.nav {
+    background-color: rgba(255, 173, 73, 0.938);
+    
+
+}
